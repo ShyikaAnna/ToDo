@@ -14,6 +14,9 @@ public class TestBase {
     protected WebDriver driver;
     public WebDriverWait wait;
 
+    public TestBase(WebDriver driver) {
+        super(driver);
+    }
 
     @Before
     public void start() {
