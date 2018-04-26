@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="IdeaProjects-gradle_main~1" target="1.8" />
       <module name="IdeaProjects-gradle_test~1" target="1.8" />
+      <module name="Profile_Settings_main" target="1.8" />
+      <module name="Profile_Settings_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
